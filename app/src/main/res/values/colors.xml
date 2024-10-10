@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_white">#FFBB86FC</color>
+    <color name="purple_nice">#693E8A</color>
+    <color name="purple">#FF6200EE</color>
+    <color name="purple_dark">#FF3700B3</color>
+    <color name="color_activity">#8E24AA</color>
+
+    <color name="blue_dark">#201E43</color>
+    <color name="emerald">#134B70</color>
+    <color name="light_emerald">#508C9B</color>
+    <color name="silver">#EEEEEE</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#0B82B6</color>
+    <color name="loginBkColor">#6A151C</color>
+
+    <!--colors for card-->
+    <color name="whiteCardColor">#fff</color>
+</resources>
